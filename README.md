@@ -80,7 +80,7 @@ Automatically blocked malicious IP addresses via Windows Firewall rules.
 ### 📲 Telegram Alerts
 Real-time security notifications sent to the administrator.
 
-![Telegram Alerts](screenshots/telegram_alert.png)
+![Telegram Alerts](screenshots/alerte_telegram.png)
 
 ---
 
