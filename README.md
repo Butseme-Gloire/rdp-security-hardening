@@ -65,12 +65,11 @@ The solution is based on Windows Server and security automation scripts.
 
 ##  Screenshots
 
-_Add screenshots here:
 
-- Event Viewer logs
-- Firewall blocked IPs
-- Telegram alerts
-- Authentication process
+###  Firewall Blocked IPs
+Automatically blocked malicious IP addresses via Windows Firewall rules.
+
+![Firewall Blocked IPs](screenshots/blocage )
 
 ---
 
