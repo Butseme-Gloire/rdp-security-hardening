@@ -67,12 +67,7 @@ The solution is based on Windows Server and security automation scripts.
 
 ### Topology (2FA)
 Two-Factor Authentication (TOTP) verification during RDP login.
-![Topology](screenshots/shemat.png)
-
----
-
-
-###  Firewall Blocked IPs
+![Topology](screenshots/topology.png)
 Automatically blocked malicious IP addresses via Windows Firewall rules.
 
 ![Firewall Blocked IPs](screenshots/firewall.png )
