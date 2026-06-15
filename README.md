@@ -65,11 +65,28 @@ The solution is based on Windows Server and security automation scripts.
 
 ##  Screenshots
 
+### Topology (2FA)
+Two-Factor Authentication (TOTP) verification during RDP login.
+![Topology](screenshots/shemat.png)
+
+---
+
 
 ###  Firewall Blocked IPs
 Automatically blocked malicious IP addresses via Windows Firewall rules.
 
-![Firewall Blocked IPs](screenshots/blocage )
+![Firewall Blocked IPs](screenshots/firewall.png )
+
+### 📲 Telegram Alerts
+Real-time security notifications sent to the administrator.
+
+![Telegram Alerts](screenshots/telegram_alert.png)
+
+---
+
+### 🔐 Authentication Process (2FA)
+Two-Factor Authentication (TOTP) verification during RDP login.
+![Two-Factor Authentification](screenshots/2FA.png)
 
 ---
 
